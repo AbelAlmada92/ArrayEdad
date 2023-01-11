@@ -1,0 +1,15 @@
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\bin\Debug\net6.0\ArrayEdad.exe
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\bin\Debug\net6.0\ArrayEdad.deps.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\bin\Debug\net6.0\ArrayEdad.runtimeconfig.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\bin\Debug\net6.0\ArrayEdad.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\bin\Debug\net6.0\ArrayEdad.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\obj\Debug\net6.0\ArrayEdad.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\obj\Debug\net6.0\ArrayEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\obj\Debug\net6.0\ArrayEdad.AssemblyInfoInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\obj\Debug\net6.0\ArrayEdad.AssemblyInfo.cs
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\obj\Debug\net6.0\ArrayEdad.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\obj\Debug\net6.0\ArrayEdad.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\obj\Debug\net6.0\refint\ArrayEdad.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\obj\Debug\net6.0\ArrayEdad.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\obj\Debug\net6.0\ArrayEdad.genruntimeconfig.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ArrayEdad\obj\Debug\net6.0\ref\ArrayEdad.dll
